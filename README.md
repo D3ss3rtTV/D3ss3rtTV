@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D3ss3rtTV
-- 👀 I’m Coding, Web development, and hacking
-- 🌱 I’m currently learning penetrating and security
+- 👀 I’m Interested in Coding, Web development, and hacking
+- 🌱 I’m currently learning pentesting and security
 - 💞️ I’m looking to collaborate on web development and bug bounty
 Projects
 - 📫 https://d3ss3rttv.com
