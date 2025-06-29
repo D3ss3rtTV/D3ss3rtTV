@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm D3ss3rtTV 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻%20Tech%20Stack-Golang%20%7C%20Vue%20%7C%20Kali%20%7C%20Flutter%20%7C%20Python%20%7C%20ArchLinux-informational?style=flat-square&color=0f0c29" alt="Tech Stack">
+  <img src="https://img.shields.io/badge/💻%20Tech%20Stack-Golang%20%7C%20Vue%20%7C%20Rust%20%7C%20Flutter%20%7C%20Python%20%7C%20ArchLinux-informational?style=flat-square&color=0f0c29" alt="Tech Stack">
   <img src="https://img.shields.io/badge/-Wilson%20Tech%20Services-0f0c29?style=flat-square" alt="Company">
 </p>
 
