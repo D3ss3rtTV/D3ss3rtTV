@@ -19,7 +19,7 @@ I'm a **Techie** and the founder of **Wilson Tech Services**, passionate about c
 ### 🔨 Tech Toolbox
 
 ```yaml
-- **Languages**: Golang, Python, C++, JavaScript, Bash
-- **Frameworks**: Vue.js, Flutter, htmx
+- **Languages**: Golang, Python, C++, JavaScript
+- **Frameworks**: NUXT, Flutter, Vite, SCSS
 - **Platforms**: Arch Linux, Ubuntu, Kali, Docker, VS Code
 - **Tools**: Git, Obsidian, Go.dev, Termux, WebSockets
