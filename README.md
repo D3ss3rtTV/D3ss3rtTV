@@ -17,6 +17,9 @@ Security researcher, certified IT support and security professional, and Linux/W
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -37,6 +40,7 @@ Security researcher, certified IT support and security professional, and Linux/W
 ![Wazuh](https://img.shields.io/badge/Wazuh-3A7FC1?style=flat&logoColor=white)
 ![Caido](https://img.shields.io/badge/Caido-6E40C9?style=flat&logoColor=white)
 ![FFUF](https://img.shields.io/badge/FFUF-black?style=flat&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-red?style=flat&logoColor=white)
 
 ---
 
@@ -67,7 +71,9 @@ Anime, Futurama, WKUK, dark humor. If you have good taste in at least one of tho
 
 - Contributing to your project, just reach out
 - Collabs on security tooling, OSINT, Linux utilities, anything interesting
-- Talking shop about RE, pentesting, or IT in general
+- Bug bounty teaming up and write-up sharing
+- Pentesting work and threat research
+- Talking shop about RE, binary analysis, or anything security related
 
 ---
 
