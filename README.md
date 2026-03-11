@@ -1,25 +1,71 @@
-<h1 align="center">Hi there, I'm D3ss3rtTV 👋</h1>
+# hey, I'm D3ss3rtTV 👾
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💻%20Tech%20Stack-Golang%20%7C%20Vue%20%7C%20Rust%20%7C%20Flutter%20%7C%20Python%20%7C%20ArchLinux-informational?style=flat-square&color=0f0c29" alt="Tech Stack">
-  <img src="https://img.shields.io/badge/-Wilson%20Tech%20Services-0f0c29?style=flat-square" alt="Company">
-</p>
+```
+  IT support · reverse engineering · pentesting · linux · tooling
+  Colorado | building things that actually get used
+```
+
+I work across the full stack of IT, from hands-on support and Linux admin to security research, reverse engineering, and building CLI tools that solve real problems. 2026 is my dev year and I'm here to build, ship, and collaborate with anyone who's down to make cool stuff.
+
+If you use something I built, want to collab, or just want to talk shop, hit me up. Always down to work with new people.
 
 ---
 
-### 👨‍💻 About Me
+## tools and tech
 
-I'm a **Techie** and the founder of **Wilson Tech Services**, passionate about creating innovative solutions with tools like Golang, Python, and Vue.
+**Languages**
 
-- 🚀 Currently exploring: **Arch Linux**, custom Linux distros, and **GO**.
-- 📚 Working on: A **Go web app** and **CLI tools** for IT troubleshooting and tech services.
-- 🧠 Learning: More about **Linux Customization**, and advanced **Kernel Development**.
-- 💡 Fun fact: I love teaching my 7-year-old son how to code and also designing **game concepts** to teach Go!
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-### 🔨 Tech Toolbox
+**Platforms and Environments**
 
-```yaml
-- **Languages**: Golang, Python, C++, JavaScript
-- **Frameworks**: NUXT, Flutter, Vite, SCSS
-- **Platforms**: Arch Linux, Ubuntu, Kali, Docker, VS Code
-- **Tools**: Git, Obsidian, Go.dev, Termux, WebSockets
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20%2F%20Termux-3DDC84?style=flat&logo=android&logoColor=white)
+
+**Security and OSINT**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan%20API-CC0000?style=flat&logoColor=white)
+
+**Other**
+
+![SSH](https://img.shields.io/badge/SSH%20%2F%20VPS-black?style=flat&logo=openssh&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich%20TUI-grey?style=flat&logo=python&logoColor=white)
+
+---
+
+## projects
+
+### [SHODASH](https://github.com/D3ss3rtTV/shodash) 🔴
+A Python TUI dashboard that makes your Shodan lifetime membership actually useful. Search for exposed devices, cameras, IoT gear, ICS systems, and more within a geo-radius of any location you set. Has a credit-aware cart system so you don't accidentally burn your monthly quota.
+
+Built because too many people paid $49 for a Shodan membership and never touched it past the first week. That's me included, until now.
+
+`python` `rich` `shodan` `osint` `tui` `cli`
+
+---
+
+## what I'm into
+
+**IT Support and Administration** - day-to-day Linux admin, VPS management, SSH hardening, networking, and the kind of real-world troubleshooting that doesn't show up cleanly in any docs.
+
+**Pentesting and Security Research** - recon, OSINT, network enumeration, and building tools that make the whole process faster and more organized.
+
+**Reverse Engineering** - binary analysis, understanding how things actually work under the hood, and the occasional deep rabbit hole that turns into a weekend project.
+
+**Linux Tooling** - CLI first always. Especially into Android and Termux tooling for on-the-go security research.
+
+---
+
+## currently
+
+- Expanding SHODASH with more integrations, export features, and new query categories
+- Building out more OSINT and security tooling through 2026
+- Open to collabs, contributions, and building with anyone working on similar stuff
+
+---
+
+*Colorado based. Terminal first. Open to everything.*
